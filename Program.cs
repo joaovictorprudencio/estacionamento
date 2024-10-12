@@ -1,5 +1,4 @@
-﻿using Estacionamento.models;
-
+﻿
 // Coloca o encoding para UTF8 para exibir acentuação
 Console.OutputEncoding = System.Text.Encoding.UTF8;
 
@@ -12,7 +11,7 @@ precoInicial = Convert.ToDecimal(Console.ReadLine());
 
 Console.WriteLine("Agora digite o preço por hora:");
 precoPorHora = Convert.ToDecimal(Console.ReadLine());
-EstacionamentoApp es = new EstacionamentoApp(precoInicial, precoPorHora);
+Estacionamento.Models.Estacionamento es = new Estacionamento.Models.Estacionamento(precoInicial, precoPorHora);
 
 
 string opcao = string.Empty;

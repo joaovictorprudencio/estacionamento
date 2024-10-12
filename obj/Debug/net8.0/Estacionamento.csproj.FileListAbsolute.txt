@@ -7,7 +7,6 @@ C:\Users\Joao Victor\Desktop\.Net\Estacionamento\obj\Debug\net8.0\Estacionamento
 C:\Users\Joao Victor\Desktop\.Net\Estacionamento\obj\Debug\net8.0\Estacionamento.AssemblyInfoInputs.cache
 C:\Users\Joao Victor\Desktop\.Net\Estacionamento\obj\Debug\net8.0\Estacionamento.AssemblyInfo.cs
 C:\Users\Joao Victor\Desktop\.Net\Estacionamento\obj\Debug\net8.0\Estacionamento.csproj.CoreCompileInputs.cache
-C:\Users\Joao Victor\Desktop\.Net\Estacionamento\obj\Debug\net8.0\Estacionamento.sourcelink.json
 C:\Users\Joao Victor\Desktop\.Net\Estacionamento\obj\Debug\net8.0\Estacionamento.dll
 C:\Users\Joao Victor\Desktop\.Net\Estacionamento\obj\Debug\net8.0\refint\Estacionamento.dll
 C:\Users\Joao Victor\Desktop\.Net\Estacionamento\obj\Debug\net8.0\Estacionamento.pdb
